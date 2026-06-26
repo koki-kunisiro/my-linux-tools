@@ -18,3 +18,6 @@ alias lpwh='ls -l;pwd;whoami;hostname'
 検索するコマンド
 find . -type d -name ".git"
 便利そうなコマンドよねぇ
+
+systemctl コマンドについて学んだ
+firewallについても学んだ
