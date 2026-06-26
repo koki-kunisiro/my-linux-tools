@@ -12,3 +12,8 @@ alias lpwh='ls -l;pwd;whoami;hostname'
 
 ## じつは
 ここで編集できます
+
+今日も今日とてLinux
+
+検索するコマンド
+find . -type d -name ".git"
